@@ -14,7 +14,7 @@
             "type": "java",
             "name": "Launch App",
             "request": "launch",
-            "vmArgs": "--module-path C:/Users/chris/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "vmArgs": "--module-path C:/Users/chris/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml", // POINT THIS TO YOUR JAVA LIBRARY
             "mainClass": "App",
             "projectName": "Software_Engineering_Banking_Project_16fa38e6"
         }

@@ -3,6 +3,7 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
+        // POINT ALL OF THESE TO YOUR JAVA LIB
         "c:\\Users\\chris\\Downloads\\javafx-sdk-11.0.2\\lib\\javafx.base.jar",
         "c:\\Users\\chris\\Downloads\\javafx-sdk-11.0.2\\lib\\javafx.controls.jar",
         "c:\\Users\\chris\\Downloads\\javafx-sdk-11.0.2\\lib\\javafx.fxml.jar",
